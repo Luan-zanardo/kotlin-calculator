@@ -17,12 +17,9 @@ Uma calculadora simples, moderna e responsiva desenvolvida para Android utilizan
 - JUnit 4
 
 ### 🚀 Como Executar
+
+1. Clone o repositório
 ```bash
-# 1. Clone o repositório
 git clone https://github.com/Luan-zanardo/kotlin-calculator.git
-
-# 2. Abra o projeto no Android Studio e execute em seu dispositivo/emulador.
 ```
-
----
-Desenvolvido com 💜 usando Jetpack Compose.
+2. Abra o projeto no Android Studio e execute em seu dispositivo/emulador.
