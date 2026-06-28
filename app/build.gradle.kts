@@ -5,11 +5,8 @@ plugins {
 
 android {
     namespace = "com.example.kotlin_calculator"
-    compileSdk {
-        version = release(36) {
-            minorApiLevel = 1
-        }
-    }
+    compileSdk = 37
+
 
     defaultConfig {
         applicationId = "com.example.kotlin_calculator"
